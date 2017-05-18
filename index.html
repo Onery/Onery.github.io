@@ -1,6 +1,7 @@
 ---
 layout: page
-description: "一生想做浪漫极客"
+description: "梦想着可以一边旅行一边写代码。
+火车上，客栈里，小餐馆里，苍山洱海旁，坐下就掏出笔记本写代码，写累了就踩着滑板换个地方继续写。"
 ---
 
 {% for post in paginator.posts %}
@@ -35,7 +36,7 @@ description: "一生想做浪漫极客"
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts  &rarr;</a>
     </li>
     {% endif %}
 </ul>
