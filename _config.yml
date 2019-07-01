@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: kingliangyingjun@gmail.com
 description: "这里是Onery的个人博客，与你一起发现更大的世界。"
 keyword: ""
-url: "https://oneryhandsome.com"              # your host, for absolute URL
+url: "https://oneryjun.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -71,7 +71,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，撸撸铁，踩踩滑板 ，看看书，健康生活"
-sidebar-avatar: /img/avatar-onery.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avtar-portfolio.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
