@@ -3,11 +3,9 @@ layout: post
 title: iOS节省流量和WebView图片缓存方案
 date: 2017-03-06 13:49:50
 tags: iOS节省流量和WebView图片缓存方案
-excerpt: "在上一篇文章中说过我们的项目使用了HybridKit，感兴趣的可以去看下《OC与JS代码交互原理》。项目上线之后有用户反馈，在使用过程中流量消耗特别快，so为了满足上帝的需求，有了这边文章。"
+excerpt: "图片解决。因为项目中部分界面使用Html 5展示的"
 comments: true
 ---
-
-在上一篇文章中说过我们的项目使用了HybridKit，感兴趣的可以去看下[《OC与JS代码交互原理》](http://oneryhandsome.com/OC%E4%B8%8EJS%E4%BB%A3%E7%A0%81%E4%BA%A4%E4%BA%92%E5%8E%9F%E7%90%86(%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91-%E5%8C%85%E5%90%ABUIWebView-WKWebView)/)。项目上线之后有用户反馈，在使用过程中流量消耗特别快，so为了满足上帝的需求，有了这边文章。
 
 
 ## 流量消耗过快原因
